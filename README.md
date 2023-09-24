@@ -1,1 +1,1 @@
-# Data_vusualization_sales_and_profit
+# Data_visualization_sales_and_profit
